@@ -1,1 +1,1 @@
-These files contain code that use different techniques to perform common numerical operations in everyday life, such as finding roots of a function, estimating a polynomial given function values, and taking integrals given a certain function.
+These files contain code that use different techniques to perform common numerical operations in mathematical computation, such as finding roots of a function, estimating a polynomial given function values, and taking integrals given a certain function.
